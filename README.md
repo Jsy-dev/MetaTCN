@@ -18,7 +18,11 @@ a dynamic scoring mechanism that selectively retrieves task-relevant nodes from 
 
 **Main Results:** 
 Our ModernTCN achieves the consistent state-of-the-art performance on five mainstream time series analysis tasks with better efficiency.
-![image](fig/result.jpg)
+
+
+|![image](fig/result.jpg)|
+
+
 ## Get Started
 
 1. Install Python 3.7 and necessary dependencies.

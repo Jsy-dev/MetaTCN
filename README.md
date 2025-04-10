@@ -51,7 +51,7 @@ We provide the short-term forecasting experiment coding in `./ModernTCN-short-te
 ```
 cd ./MetaTCN
 
-sh ./scripts//short/ETTh1.sh
+sh ./scripts/short/ETTh1.sh
 ```
 
 5. Imputation tasks.
@@ -59,9 +59,9 @@ sh ./scripts//short/ETTh1.sh
 We provide the imputation experiment coding in `./MetaTCN-imputation` and experiment scripts can be found under the folder `./scripts`. To run the code on ETTh2, just run the following command:
 
 ```
-cd ./ModernTCN-imputation
+cd ./MetaTCN
 
-sh ./scripts/ETTh2.sh
+sh ./scripts/imputation/weather.sh
 ```
 
 

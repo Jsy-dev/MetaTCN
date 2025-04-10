@@ -14,15 +14,14 @@ a structured repository for critical knowledge patterns and their relevance to t
 a dynamic scoring mechanism that selectively retrieves task-relevant nodes from the MNB to form adaptive knowledge pathways.
 
 
-|![image](fig/fig_block.png) | ![image](fig/fig_erf.png)
-|:--:|:--:|
-| *Figure 1. ModernTCN block design.* | *Figure 2. Visualization of ERF.* |
+![image](fig/results.jpg)
+| *Figure 1. MetaTCN results.*
 
 ## Main Results
 
 **Main Results:** 
 Our ModernTCN achieves the consistent state-of-the-art performance on five mainstream time series analysis tasks with better efficiency.
-![Block Design](fig/fig_mainresult.png)
+![Block Design](fig/results.jpg)
 ## Get Started
 
 1. Install Python 3.7 and necessary dependencies.

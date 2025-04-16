@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 3. Long-term forecasting tasks.
  
-We provide the long-term forecasting experiment coding in `./ModernTCN-Long-term-forecasting` and experiment scripts can be found under the folder `./scripts`. To run the code on ETTh2, just run the following command:
+We provide the long-term forecasting experiment coding in `./MetaTCN` and experiment scripts can be found under the folder `./scripts`. To run the code on ETTh2, just run the following command:
 
 ```
 cd ./MetaTCN
@@ -46,7 +46,7 @@ sh ./scripts/long_term/ETTh2.sh
 
 4. Short-term forecasting tasks.
 
-We provide the short-term forecasting experiment coding in `./ModernTCN-short-term` and experiment scripts can be found under the folder `./scripts`. Please run the following command:
+We provide the short-term forecasting experiment coding in `./MetaTCN` and experiment scripts can be found under the folder `./scripts`. Please run the following command:
 
 ```
 cd ./MetaTCN
@@ -56,7 +56,7 @@ sh ./scripts/short/ETTh1.sh
 
 5. Imputation tasks.
 
-We provide the imputation experiment coding in `./MetaTCN-imputation` and experiment scripts can be found under the folder `./scripts`. To run the code on ETTh2, just run the following command:
+We provide the imputation experiment coding in `./MetaTCN` and experiment scripts can be found under the folder `./scripts`. To run the code on ETTh2, just run the following command:
 
 ```
 cd ./MetaTCN
